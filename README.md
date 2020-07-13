@@ -1,6 +1,13 @@
-### Hi there 👋
+1. Apache Dubbo/ShardingSphere PMC
+2. Aliyun MVP/Tencent TVP/TGO Member
+3. One of Authors for book [MicroServices Architecture in Action: Based on Dubbo, Spring Cloud and Service Mesh](https://item.jd.com/12585284.html), [Core JVM: 32 Sections](https://gitbook.cn/gitchat/column/5de76cc38d374b7721a15cec) 
+
+kimmking@apache.org && https://kimmking.github.io/about
 
 <!--
+
+Hi there 👋
+
 **kimmking/kimmking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
