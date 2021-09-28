@@ -4,6 +4,9 @@
 
 kimmking@apache.org && https://kimmking.github.io/about
 
+[![kimmking's github stats](https://github-readme-stats.vercel.app/api?username=kimmking)](https://github.com/kimmking/github-readme-stats)
+
+
 <!--
 
 Hi there 👋
