@@ -1,6 +1,6 @@
 1. Apache Dubbo/ShardingSphere PMC
 2. Aliyun MVP/Tencent TVP/TGO Member
-3. One of Authors for book [MicroServices Architecture in Action: Based on Dubbo, Spring Cloud and Service Mesh](https://item.jd.com/12585284.html), [Core JVM: 32 Sections](https://gitbook.cn/gitchat/column/5de76cc38d374b7721a15cec) 
+3. One of Authors for book [MicroServices Architecture in Action: Based on Dubbo, Spring Cloud and Service Mesh](https://item.jd.com/12585284.html), [Core JVM: 32 Sections](https://gitbook.cn/gitchat/column/5de76cc38d374b7721a15cec) ，[The Dao of Performance: Full-Stack Performance Optimization for Distributed Systems](https://item.jd.com/10131647736555.html)
 
 kimmking@apache.org && https://kimmking.github.io/about
 
